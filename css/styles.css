@@ -3,6 +3,9 @@ body {
     background-color: whitesmoke;
 }
 
+.divTexts {
+    margin-right: 500px;
+}
 
 p, h1, h2, h3, .buttons {
     font-family: "Times New Roman";
